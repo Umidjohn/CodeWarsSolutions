@@ -21,3 +21,4 @@ function solve(n) {
     else return count;
 
 }
+
